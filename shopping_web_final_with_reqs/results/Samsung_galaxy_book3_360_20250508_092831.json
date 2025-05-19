@@ -1,0 +1,33 @@
+{
+  "query": "Samsung galaxy book3 360",
+  "timestamp": "2025-05-08T09:28:31.840153",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:8279172433328693892",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:8279172433328693892",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:8279172433328693892",
+      "nome": "NOTEBOOK SAMSUNG GALAXY BOOK3 360 - INTEL CORE i5 13°, 8GB RAM, 256GB SSD, 13.3\" TOUCH, WIN11",
+      "preco": 4590,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 4.590,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/15483668216016029955?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/15483668216016029955?gl=br",
+      "link": "https://www.google.com.br/shopping/product/15483668216016029955?gl=br",
+      "nome": "Notebook Samsung Galaxy Book3 Intel Core i3-1315U 8GB NP754XFG-KT1BR",
+      "preco": 5399,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 5.399,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/11835300721792310766?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/11835300721792310766?gl=br",
+      "link": "https://www.google.com.br/shopping/product/11835300721792310766?gl=br",
+      "nome": "Notebook Samsung Galaxy Book3 360 Intel Core i5-1335U",
+      "preco": 5489.1,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 5.489,10"
+    }
+  ]
+}

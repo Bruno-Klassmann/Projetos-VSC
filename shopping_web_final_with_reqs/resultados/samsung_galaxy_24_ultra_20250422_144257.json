@@ -1,0 +1,41 @@
+{
+    "query": "Samsung Galaxy 24 ultra",
+    "timestamp": "22/04/2025, 15:42:57",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 6,38",
+            "preco_valor": 6.379,
+            "link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-512gb-12gb-de-ram-self-cor-titnio-creme-excelente-recondicionado/p/MLB2010778572#polycard_client=search-nordic&searchVariation=MLB2010778572&wid=MLB4038810841&position=7&search_layout=stack&type=product&tracking_id=95619746-f9fa-4741-b837-f77c4f54d1aa&sid=search",
+            "cart_link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-512gb-12gb-de-ram-self-cor-titnio-creme-excelente-recondicionado/p/MLB2010778572#polycard_client=search-nordic&searchVariation=MLB2010778572&wid=MLB4038810841&position=7&search_layout=stack&type=product&tracking_id=95619746-f9fa-4741-b837-f77c4f54d1aa&sid=search"
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 6,38",
+        "preco_valor": 6.379,
+        "economia": "Único preço disponível",
+        "link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-512gb-12gb-de-ram-self-cor-titnio-creme-excelente-recondicionado/p/MLB2010778572#polycard_client=search-nordic&searchVariation=MLB2010778572&wid=MLB4038810841&position=7&search_layout=stack&type=product&tracking_id=95619746-f9fa-4741-b837-f77c4f54d1aa&sid=search",
+        "cart_link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-512gb-12gb-de-ram-self-cor-titnio-creme-excelente-recondicionado/p/MLB2010778572#polycard_client=search-nordic&searchVariation=MLB2010778572&wid=MLB4038810841&position=7&search_layout=stack&type=product&tracking_id=95619746-f9fa-4741-b837-f77c4f54d1aa&sid=search"
+    },
+    "metadata": {
+        "saved_at": "2025-04-22T14:42:57.489663",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

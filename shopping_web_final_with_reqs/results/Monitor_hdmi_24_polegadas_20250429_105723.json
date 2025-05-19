@@ -1,0 +1,33 @@
+{
+  "query": "Monitor hdmi 24 polegadas",
+  "timestamp": "2025-04-29T10:57:23.812897",
+  "top_deals": [
+    {
+      "cart_link": "",
+      "cart_link_final": "",
+      "link": "",
+      "nome": "Monitor Gamer Led 24 2ms 75Hz Full Hd Widescreen HQ 24hq",
+      "preco": 79.9,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 79,90"
+    },
+    {
+      "cart_link": "",
+      "cart_link_final": "",
+      "link": "",
+      "nome": "Monitor Gamer Samsung 24\" Fhd 75Hz HDMI",
+      "preco": 539,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 539,00"
+    },
+    {
+      "cart_link": "",
+      "cart_link_final": "",
+      "link": "",
+      "nome": "Monitor Gamer 100Hz Aoc 24\" 1ms HDMI",
+      "preco": 539.1,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 539,10"
+    }
+  ]
+}

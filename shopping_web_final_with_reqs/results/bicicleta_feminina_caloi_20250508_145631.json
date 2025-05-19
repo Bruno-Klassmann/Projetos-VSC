@@ -1,0 +1,33 @@
+{
+  "query": "bicicleta feminina caloi",
+  "timestamp": "2025-05-08T14:56:31.449647",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1546666850142034498?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1546666850142034498?gl=br",
+      "link": "https://www.google.com.br/shopping/product/1546666850142034498?gl=br",
+      "nome": "Bicicleta Infantil Aro 16 Ceci Caloi",
+      "preco": 494,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 494,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/7144078213668983680?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/7144078213668983680?gl=br",
+      "link": "https://www.google.com.br/shopping/product/7144078213668983680?gl=br",
+      "nome": "Bicicleta Infantil Caloi Cecizinha Aro 14",
+      "preco": 819.8,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 819,80"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/3837696686661561136?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/3837696686661561136?gl=br",
+      "link": "https://www.google.com.br/shopping/product/3837696686661561136?gl=br",
+      "nome": "Bicicleta Caloi Max Aro 24",
+      "preco": 1007.99,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 1.007,99"
+    }
+  ]
+}

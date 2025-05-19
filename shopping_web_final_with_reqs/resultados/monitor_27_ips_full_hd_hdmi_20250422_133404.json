@@ -1,0 +1,41 @@
+{
+    "query": "Monitor 27 IPS Full HD HDMI",
+    "timestamp": "22/04/2025, 14:34:04",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 959,04",
+            "preco_valor": 959.04,
+            "link": null,
+            "cart_link": null
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 959,04",
+        "preco_valor": 959.04,
+        "economia": "Único preço disponível",
+        "link": null,
+        "cart_link": null
+    },
+    "metadata": {
+        "saved_at": "2025-04-22T13:34:04.129716",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

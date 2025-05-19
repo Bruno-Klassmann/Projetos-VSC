@@ -1,0 +1,33 @@
+{
+  "query": "Notebook i5 256gb",
+  "timestamp": "2025-04-29T11:13:54.988465",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/2775352068214527325?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/2775352068214527325?gl=br",
+      "link": "https://www.google.com.br/shopping/product/2775352068214527325?gl=br",
+      "nome": "Notebook Lenovo Ideapad S145 Intel",
+      "preco": 1998,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 1.998,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:2009406928860771112",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:2009406928860771112",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:2009406928860771112",
+      "nome": "Notebook Intel Core I5 10210u, 8GB Ram, 256gb SSD, WINDOWS 11.",
+      "preco": 2645.99,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 2.645,99"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/3501926432042684276?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/3501926432042684276?gl=br",
+      "link": "https://www.google.com.br/shopping/product/3501926432042684276?gl=br",
+      "nome": "Notebook Asus Vivobook 15 Intel Core i5",
+      "preco": 2702.15,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 2.702,15"
+    }
+  ]
+}

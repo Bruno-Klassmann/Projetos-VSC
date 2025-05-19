@@ -1,0 +1,41 @@
+{
+    "query": "Samsung galaxy s24 ultra4",
+    "timestamp": "24/04/2025, 10:24:11",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 4,30",
+            "preco_valor": 4.299,
+            "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s24-fe-5g-128gb-8gb-ram-tela-67-galaxy-ai-cinza/p/MLB45469096#polycard_client=search-nordic&searchVariation=MLB45469096&wid=MLB3979734669&position=10&search_layout=stack&type=product&tracking_id=4c10eb27-aec5-4822-9632-c6b1e7cf1e96&sid=search",
+            "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB45469096&quantity=1"
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 4,30",
+        "preco_valor": 4.299,
+        "economia": "Único preço disponível",
+        "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s24-fe-5g-128gb-8gb-ram-tela-67-galaxy-ai-cinza/p/MLB45469096#polycard_client=search-nordic&searchVariation=MLB45469096&wid=MLB3979734669&position=10&search_layout=stack&type=product&tracking_id=4c10eb27-aec5-4822-9632-c6b1e7cf1e96&sid=search",
+        "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB45469096&quantity=1"
+    },
+    "metadata": {
+        "saved_at": "2025-04-24T09:24:11.649950",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

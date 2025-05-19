@@ -1,0 +1,41 @@
+{
+    "query": "Samsung galaxy s24 ultra",
+    "timestamp": "22/04/2025, 15:54:25",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 6,38",
+            "preco_valor": 6.379,
+            "link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-512gb-12gb-de-ram-self-cor-titnio-creme-excelente-recondicionado/p/MLB2010778572#polycard_client=search-nordic&searchVariation=MLB2010778572&wid=MLB4038810841&position=5&search_layout=stack&type=product&tracking_id=f1134c22-4863-4de7-b010-0644ee8ee612&sid=search",
+            "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB2010778572&quantity=1"
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 6,38",
+        "preco_valor": 6.379,
+        "economia": "Único preço disponível",
+        "link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-512gb-12gb-de-ram-self-cor-titnio-creme-excelente-recondicionado/p/MLB2010778572#polycard_client=search-nordic&searchVariation=MLB2010778572&wid=MLB4038810841&position=5&search_layout=stack&type=product&tracking_id=f1134c22-4863-4de7-b010-0644ee8ee612&sid=search",
+        "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB2010778572&quantity=1"
+    },
+    "metadata": {
+        "saved_at": "2025-04-22T14:54:25.277413",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "query": "fone galaxy bud",
+  "timestamp": "2025-04-29T11:15:15.226243",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:12389811853724210948",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:12389811853724210948",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:12389811853724210948",
+      "nome": "Galaxy Buds 2 Pro T-WS Fone De Ouvido Bluetooth Ruído Ativo Cancelando Som De Sem Fio HiFi Para S22 Ultra",
+      "preco": 60,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 60,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:13045995065577187974",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:13045995065577187974",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:13045995065577187974",
+      "nome": "- Para Fone De Ouvido Galaxy Buds3 Com Redução De Ruído,",
+      "preco": 176.22,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 176,22"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1656421829639731393?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1656421829639731393?gl=br",
+      "link": "https://www.google.com.br/shopping/product/1656421829639731393?gl=br",
+      "nome": "Fone de Ouvido Samsung Galaxy Buds2 Pro",
+      "preco": 227.05,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 227,05"
+    }
+  ]
+}

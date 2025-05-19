@@ -1,0 +1,41 @@
+{
+    "query": "Samsung galaxy s24 ultra4",
+    "timestamp": "22/04/2025, 15:54:44",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 24,97",
+            "preco_valor": 24.97,
+            "link": "https://produto.mercadolivre.com.br/MLB-4487277884-capa-case-para-galaxy-s24-ultra-5g-silicone-anti-impacto-_JM?searchVariation=179960139912#polycard_client=search-nordic&searchVariation=179960139912&position=32&search_layout=stack&type=item&tracking_id=4ccc8827-c448-4d41-8bf9-ad81ad9f9cb3",
+            "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB4487277884&quantity=1"
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 24,97",
+        "preco_valor": 24.97,
+        "economia": "Único preço disponível",
+        "link": "https://produto.mercadolivre.com.br/MLB-4487277884-capa-case-para-galaxy-s24-ultra-5g-silicone-anti-impacto-_JM?searchVariation=179960139912#polycard_client=search-nordic&searchVariation=179960139912&position=32&search_layout=stack&type=item&tracking_id=4ccc8827-c448-4d41-8bf9-ad81ad9f9cb3",
+        "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB4487277884&quantity=1"
+    },
+    "metadata": {
+        "saved_at": "2025-04-22T14:54:44.730920",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

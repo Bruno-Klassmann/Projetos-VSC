@@ -1,0 +1,41 @@
+{
+    "query": "Iphone Max 15",
+    "timestamp": "22/04/2025, 15:42:35",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 12,66",
+            "preco_valor": 12.656,
+            "link": "https://www.mercadolivre.com.br/apple-iphone-15-pro-max-1-tb-titnio-azul-distribuidor-autorizado/p/MLB1027172721#polycard_client=search-nordic&searchVariation=MLB1027172721&wid=MLB3512345349&position=7&search_layout=stack&type=product&tracking_id=ede50a75-9ee6-4af8-83d9-41e5a8fce438&sid=search",
+            "cart_link": "https://www.mercadolivre.com.br/apple-iphone-15-pro-max-1-tb-titnio-azul-distribuidor-autorizado/p/MLB1027172721#polycard_client=search-nordic&searchVariation=MLB1027172721&wid=MLB3512345349&position=7&search_layout=stack&type=product&tracking_id=ede50a75-9ee6-4af8-83d9-41e5a8fce438&sid=search"
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 12,66",
+        "preco_valor": 12.656,
+        "economia": "Único preço disponível",
+        "link": "https://www.mercadolivre.com.br/apple-iphone-15-pro-max-1-tb-titnio-azul-distribuidor-autorizado/p/MLB1027172721#polycard_client=search-nordic&searchVariation=MLB1027172721&wid=MLB3512345349&position=7&search_layout=stack&type=product&tracking_id=ede50a75-9ee6-4af8-83d9-41e5a8fce438&sid=search",
+        "cart_link": "https://www.mercadolivre.com.br/apple-iphone-15-pro-max-1-tb-titnio-azul-distribuidor-autorizado/p/MLB1027172721#polycard_client=search-nordic&searchVariation=MLB1027172721&wid=MLB3512345349&position=7&search_layout=stack&type=product&tracking_id=ede50a75-9ee6-4af8-83d9-41e5a8fce438&sid=search"
+    },
+    "metadata": {
+        "saved_at": "2025-04-22T14:42:35.689847",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

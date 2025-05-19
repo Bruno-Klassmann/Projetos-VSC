@@ -1,0 +1,28 @@
+{
+    "query": "Monitor HDMI 27\"",
+    "timestamp": "2025-04-22 13:19:50",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": Infinity,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": Infinity,
+            "link": null,
+            "cart_link": null
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": Infinity,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": null
+}

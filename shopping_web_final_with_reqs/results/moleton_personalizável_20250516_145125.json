@@ -1,0 +1,33 @@
+{
+  "query": "moleton personalizável",
+  "timestamp": "2025-05-16T14:51:25.469932",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1190793361235078062?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1190793361235078062?gl=br",
+      "link": "https://www.google.com.br/shopping/product/1190793361235078062?gl=br",
+      "nome": "Blusa personalizada Escolha sua Estampa blusão",
+      "preco": 29.94,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 29,94"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/17612851232145125916?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/17612851232145125916?gl=br",
+      "link": "https://www.google.com.br/shopping/product/17612851232145125916?gl=br",
+      "nome": "Blusa Moletom 59D Personalizado Seu Nome 244 Grau de Rua Corte Casaco Moto Moleton Preto Bike",
+      "preco": 64.75,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 64,75"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/9751499701629502938?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/9751499701629502938?gl=br",
+      "link": "https://www.google.com.br/shopping/product/9751499701629502938?gl=br",
+      "nome": "Moletom Personalizado Blusa com Capuz e Bolso Escolha a sua Personalização Fotografia Artes e Desenhos",
+      "preco": 79.9,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 79,90"
+    }
+  ]
+}

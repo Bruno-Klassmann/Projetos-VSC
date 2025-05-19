@@ -1,0 +1,33 @@
+{
+  "query": "Bicicleta caloi aro 26",
+  "timestamp": "2025-04-29T14:44:39.943893",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/4319033584301048791?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/4319033584301048791?gl=br",
+      "link": "https://www.google.com.br/shopping/product/4319033584301048791?gl=br",
+      "nome": "Bicicleta Caloi Montana Aro 26 21 Marchas",
+      "preco": 612,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 612,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:1135372618907985818",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:1135372618907985818",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:1135372618907985818",
+      "nome": "Caloi Aro 26 Kaloi Montana Adaptada 2014",
+      "preco": 650,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 650,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/5221434170757480506?gl=br",
+      "cart_link_final": "https://www.google.com.br/shopping/product/5221434170757480506?gl=br",
+      "link": "https://www.google.com.br/shopping/product/5221434170757480506?gl=br",
+      "nome": "Caloi Bicicleta Andes Aro 26",
+      "preco": 807.41,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 807,41"
+    }
+  ]
+}

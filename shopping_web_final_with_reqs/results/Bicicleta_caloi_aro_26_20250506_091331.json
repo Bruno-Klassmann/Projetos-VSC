@@ -1,0 +1,33 @@
+{
+  "query": "Bicicleta caloi aro 26",
+  "timestamp": "2025-05-06T09:13:30.932638",
+  "top_deals": [
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:16692584410575435416",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:16692584410575435416",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:16692584410575435416",
+      "nome": "quadro caloi aço aro 26 tamanho 17 Twister - Preta Freio V-Brake sem adesivos somente o quadro",
+      "preco": 69,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 69,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:7922369886450121254",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:7922369886450121254",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:7922369886450121254",
+      "nome": "Capa Tecido Para Bicicleta Caloi Andes 26 Urbana Aro 26 - Mz, Preto",
+      "preco": 109,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 109,00"
+    },
+    {
+      "cart_link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:16522106825606095876",
+      "cart_link_final": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:16522106825606095876",
+      "link": "https://www.google.com.br/shopping/product/1?gl=br&prds=pid:16522106825606095876",
+      "nome": "Capa Para Proteger Pintura Bike Caloi Rouge Urbana Aro 26 - Mz, Vermel",
+      "preco": 109,
+      "site": "Google Shopping",
+      "preco_formatado": "R$ 109,00"
+    }
+  ]
+}

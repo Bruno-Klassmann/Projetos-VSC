@@ -1,0 +1,41 @@
+{
+    "query": "Samsung galaxy s24 ultra",
+    "timestamp": "24/04/2025, 10:24:16",
+    "results": {
+        "Google Shopping": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        },
+        "Mercado Livre": {
+            "nome": "Nome não encontrado",
+            "preco": "R$ 7,40",
+            "preco_valor": 7.399,
+            "link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titnio-cinza-12-gb-ram-excelente-recondicionado/p/MLB2000065537#polycard_client=search-nordic&searchVariation=MLB2000065537&wid=MLB4038788557&position=15&search_layout=stack&type=product&tracking_id=3c00d3d7-4b77-48ce-9d1d-cf22d8fcd11a&sid=search",
+            "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB2000065537&quantity=1"
+        },
+        "Kabum": {
+            "nome": "Nenhum produto encontrado",
+            "preco": "N/A",
+            "preco_valor": null,
+            "link": null,
+            "cart_link": null
+        }
+    },
+    "best_overall": {
+        "site": "Mercado Livre",
+        "nome": "Nome não encontrado",
+        "preco": "R$ 7,40",
+        "preco_valor": 7.399,
+        "economia": "Único preço disponível",
+        "link": "https://www.mercadolivre.com.br/samsung-galaxy-s24-ultra-5g-dual-sim-1-tb-titnio-cinza-12-gb-ram-excelente-recondicionado/p/MLB2000065537#polycard_client=search-nordic&searchVariation=MLB2000065537&wid=MLB4038788557&position=15&search_layout=stack&type=product&tracking_id=3c00d3d7-4b77-48ce-9d1d-cf22d8fcd11a&sid=search",
+        "cart_link": "https://www.mercadolivre.com.br/checkout/cart/add?item.id=MLB2000065537&quantity=1"
+    },
+    "metadata": {
+        "saved_at": "2025-04-24T09:24:16.182584",
+        "source": "browser_scraping",
+        "version": "1.0"
+    }
+}

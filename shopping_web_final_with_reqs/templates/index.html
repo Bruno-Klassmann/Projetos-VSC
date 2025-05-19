@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assistente de Compras - Melhores Ofertas</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Assistente de Compras</h1>
+        <p>Encontre as melhores ofertas no Google Shopping</p>
+    </header>
+
+    <main>
+        <section class="search-section">
+            <h2>Buscar Produto</h2>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Digite o nome do produto...">
+                <button id="search-button" class="btn">Buscar</button>
+            </div>
+            <div id="search-status" class="search-status"></div>
+        </section>
+
+        <section id="results-section" class="results-section" style="display: none;">
+            <h2>Resultados da Busca</h2>
+            <p class="results-info">
+                Buscando por: <strong class="query-text"></strong> | 
+                Data: <span class="timestamp-text"></span>
+            </p>
+            
+            <div id="top-deals" class="top-deals-container">
+                <!-- As melhores ofertas serão inseridas aqui -->
+            </div>
+        </section>
+
+        <section class="recent-searches">
+            <h2>Buscas Recentes</h2>
+            <div id="recent-list" class="recent-list">
+                <p class="loading-message">Carregando buscas recentes...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Assistente de Compras Pessoal</p>
+    </footer>
+
+    <!-- Templates -->
+    <template id="deal-card-template">
+        <div class="deal-card">
+            <span class="deal-rank"></span>
+            <div class="deal-info">
+                <h4 class="product-name">Nome do Produto</h4>
+                <p class="price">R$ 0,00</p>
+            </div>
+            <a href="#" target="_blank" class="btn cart-link">Ver Oferta</a>
+        </div>
+    </template>
+
+    <template id="recent-search-item-template">
+        <div class="recent-item">
+            <span class="recent-query">Nome da Busca</span>
+            <span class="recent-time">Data/Hora</span>
+            <button class="btn btn-view">Ver</button>
+        </div>
+    </template>
+
+    <!-- Scripts -->
+    <script src="/static/js/error_handler.js"></script>
+    <script src="/static/js/number_formatter.js"></script>
+    <script src="/static/js/ui_error_handler.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html>
